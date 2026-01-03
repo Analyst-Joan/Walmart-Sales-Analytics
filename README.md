@@ -1,4 +1,4 @@
-# Walmart Sales Analytics
+# Walmart Sales Analysis
 
 ![Walmart](Capture1.JPG)
 
