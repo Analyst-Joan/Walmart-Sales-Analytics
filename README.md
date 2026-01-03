@@ -4,7 +4,7 @@
 
 ## Business Problem
 Retail businesses operate in a fast-paced and highly competitive environment where growth and profitability depend on understanding **what drives sales, when demand peaks, and which customers and products create the most value**.  
-Without effective analysis of large transaction datasets, organizations struggle to optimize pricing, inventory allocation, staffing, and product strategy—leading to missed revenue opportunities and operational inefficiencies.
+Without effective analysis of large transaction datasets, organizations struggle to optimize pricing, inventory allocation, staffing, and product strategy, leading to missed revenue opportunities and operational inefficiencies.
 
 ## Objective
 - Convert Walmart retail transaction data into actionable business insights  
@@ -12,7 +12,7 @@ Without effective analysis of large transaction datasets, organizations struggle
 - Support strategic decisions around pricing, inventory, staffing, and product optimization  
 
 **Key Business Question**
-- *How can retail data be transformed into decisions that drive revenue growth, customer loyalty, and operational excellence?*
+- *How is the retail business performing and where do we have opportunities to drive revenue growth, customer loyalty, and operational excellence?*
 
 ## Dataset
 - **Source:** [Kaggle: Walmart Commerce Data](https://www.kaggle.com/datasets/antaesterlin/walmart-commerce-data/data)
@@ -57,7 +57,7 @@ Without effective analysis of large transaction datasets, organizations struggle
 
 ### Visualization & Storytelling
 - 3-page Power BI dashboard with a business storytelling flow
-- Clear separation of performance, customer, and operational insights
+- Clear separation of product, Sales, and customer insights
 - UI design inspired by modern retail dashboards
 
 ## Key Insights
