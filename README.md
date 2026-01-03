@@ -99,5 +99,6 @@ Without effective analysis of large transaction datasets, organizations struggle
 
 ## Deliverables
 - Interactive 3-page Power BI Sales Analytics Dashboard
+  
 🔗 **Live Dashboard:** [Link](https://app.powerbi.com/view?r=eyJrIjoiYTc0YTEyYjgtY2IzYi00ZGNjLThmYjktNjFmM2VmZDUxMmUwIiwidCI6ImFiMTA0YzYwLTZkZTYtNDc1ZC1hMjBmLTg5M2Y2OWQ2NzlhNCJ9)
 
