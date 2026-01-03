@@ -1,6 +1,6 @@
-# Walmart Sales Analytics Dashboard
+# Walmart Sales Analytics
 
-![Walmart](Capture1.jpg)
+![Walmart](Capture1.JPG)
 
 ## Business Problem
 Retail businesses operate in a fast-paced and highly competitive environment where growth and profitability depend on understanding **what drives sales, when demand peaks, and which customers and products create the most value**.  
@@ -65,19 +65,19 @@ Without effective analysis of large transaction datasets, organizations struggle
 - **Electronic Accessories** show strong sales volume but experienced a **-6.01% MoM decline** in February.
 - **Cash** remains the most preferred payment method among customers.
 
- ![Walmart](Capture2.jpg)
+ ![Walmart](Capture2.JPG)
 
 - **Food & Beverages** lead overall product demand.
 - **Tuesday and Saturday evenings** represent peak sales periods, indicating optimal times for staffing and restocking.
 
-  ![Walmart](Capture3.jpg)
+  ![Walmart](Capture3.JPG)
   
 - **City-level preferences vary significantly:**
   - Naypyitaw leads in Food & Beverages
   - Mandalay shows strong demand for Sports & Travel
   - Yangon records higher spending on Home & Lifestyle products
 
-    ![Walmart](Capture4.jpg)
+    ![Walmart](Capture4.JPG)
 
 ## Recommendations
 - **Sales & Operations**
